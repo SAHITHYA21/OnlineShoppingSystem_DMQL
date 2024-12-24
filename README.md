@@ -1,1 +1,3 @@
-# OnlineShoppingSystem_DMQL
+# Online Shopping System
+
+This project focuses on developing a complete database system for online shopping that discharges the complexity of contemporary electronic commerce. With the ever-growing need for easy to access and effortless shopping experience, online shopping has become very popular. But, whilst online marketplaces have become dependent on vast amounts of data for user and product maintenance, and transactions and ‘data junkies’ exist within, most companies utilize a simple database that does not fulfill the volume of data. The goal of this project, therefore, is to solve the problems of online traders through the development of a safe, flexible and equally effective database management system that ensures proper performance, maximization of customer satisfaction, and achievement of business goals.
